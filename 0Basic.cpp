@@ -5,7 +5,7 @@ using  namespace std;
 int main()
 {
 bool b = true;
-    cout<<"jai jai shri ram ";
+    cout<<"jai jai shri ram "<<"github";
     // char a = 123456;
     cout<<a;
     //factorial calculate
